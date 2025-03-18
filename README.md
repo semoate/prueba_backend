@@ -13,8 +13,7 @@ Implementación de paginación en la consulta de usuarios.
 
 Clona este repositorio:
 
-git clone https://github.com/tu-usuario/nombre-del-repo.git
-cd nombre-del-repo
+git clone https://github.com/semoate/prueba_backend.git
 
 ## verificar si tienes mongo instalado
 mongod --version
