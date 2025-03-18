@@ -41,7 +41,9 @@ MONGO_URI=mongodb://localhost:27017/mi_base_de_datos
 npm start
 
 si todo esta bien saldrán estos mensajes:
+
  Servidor corriendo en http://localhost:3000
+ 
  Conectado a MongoDB
 
 
